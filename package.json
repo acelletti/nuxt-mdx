@@ -1,5 +1,5 @@
 {
-  "name": "@nuxt/mdx",
+  "name": "@acelletti/nuxt-mdx",
   "version": "0.0.1",
   "description": "Write JSX in your Markdown with Nuxt",
   "repository": "acelletti/nuxt-mdx",

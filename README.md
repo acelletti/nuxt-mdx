@@ -5,7 +5,7 @@
 [![License][license-src]][license-href]
 [![Nuxt][nuxt-src]][nuxt-href]
 
-`@nuxt/mdx` allows you to write JSX in your Markdown documents in your [Nuxt](https://nuxtjs.org) application with [MDX](https://mdxjs.com).
+`@acelletti/nuxt-mdx` allows you to write JSX in your Markdown documents in your [Nuxt](https://nuxtjs.org) application with [MDX](https://mdxjs.com).
 
 Features
 
