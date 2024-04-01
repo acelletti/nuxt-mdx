@@ -1,0 +1,51 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`@nuxt/mdx > renders the index page 1`] = `
+"<!DOCTYPE html><html><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>body{margin:48px 32px}</style>
+<link rel="stylesheet" href="/_nuxt/entry.CLiVUzjV.css">
+<link rel="modulepreload" as="script" crossorigin href="/_nuxt/Dz44E1Hd.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CW5dPAUM.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/BWru2kVu.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/B84fZSfe.js">
+<script type="module" src="/_nuxt/Dz44E1Hd.js" crossorigin></script></head><body><div id="__nuxt"><div><!--[--><h1>Regina ego arboris spumigeroque debuit in inhaesi</h1>
+<h2>Barba hastarum caeruleos praeposito ipsis idemque Actaeon</h2>
+<p><em>Lorem markdownum iamque</em>. Non pabula. Ibi formae, humano Phoebus Tydidae
+crinem. Praebere frondibus Achilli, te sollertia terras silet, navita aequoreas
+si album. Indoluit perfida exire amplexus cohaeserat movet <a href="http://da.io/falsa-deus">exhortanturque
+tremenda</a> ubi: animus siqua ab si illi <em>pavet ipso</em>
+silet tetigere; me.</p>
+<h2>In flagrat</h2>
+<p>Inveniebantur tamen et est artis et evinctus cornua et nec concussit gemino.
+Animorum praemia quas: pro tamen quem urbes clamor, in. Cipe fieri et certa me
+qui virtute tollere. Feci velut cognorat aliquid est, nec, ad retia iterum
+creverat imber Pelagonaque. Votoque nullaque relapsa edidit amplectique simul
+terram manibusque flumina: crescit accipiam.</p>
+<h2>Cui nec non ait caelumque orbem Phineus</h2>
+<p>Maiores stagnumque illum dabantur Crete loquenti ibat ille ictibus atria,
+inportunusque! Latas qui ante misso, per iamiam Aenea quam eburnae.</p>
+<ul>
+<li>Est tellure redeuntem oetaeas</li>
+<li>Siquid locus nisi nostris</li>
+<li>Cum auctor</li>
+<li>Et ipsa dedit paulatim deo nunc manu</li>
+<li>Repperit salientia domos silvis</li>
+<li>Iunonis me petiti fugitque parit</li>
+</ul>
+<h2>Vulgarunt densi</h2>
+<p>Ubi solebat Lycias videns et blandas amplexu, tuli, petis. Desuetas inde
+chlamydem illae <strong>etiam</strong>, poena poenas ensem adesset ars. Viscera est caelum
+et, saepe locuturum atque, succurrere iam percussaque et ferus, amplectens o
+ignis.</p>
+<div style="display: flex; flex-direction: row"><div><h2>Vulgarunt densi</h2><p>Ubi solebat Lycias videns et blandas amplexu, tuli, petis. Desuetas inde
+chlamydem illae <strong>etiam</strong>, poena poenas ensem adesset ars. Viscera est caelum
+et, saepe locuturum atque, succurrere iam percussaque et ferus, amplectens o
+ignis.</p></div><div><h2>Spatioso in opus tristis generis umbris emerguntque</h2><p>Supplex obvia tantaque. <strong>Lotos vetat stimuletur</strong> volandi praeferri ventris,
+una sciat; reducere, et Apollo <strong>qui</strong>. Amari femineo aevo videt a mundo, enim
+seu, <a href="http://summausus.net/quoque">et pennis</a>, simul.</p><p><em>Numero</em> captabat arbore, pectora <strong>fuit quem iacebitis</strong> mensas redditus Indus.
+Omnia poenam <strong>sua</strong> quamvis, colorem Iphigenia figuras, uti!</p><p>Pellite scelerique horrea marinae; sensi discurrunt quam, callidus <a href="http://feruntur-auxilium.io/">laevaque
+corpus absolvere</a> trahens. Iussitque coeamus
+vellem Cerbereos salutem quae. Et in medios velamina.</p></div></div><!--]--></div></div><div id="teleports"></div><script type="application/json" id="__NUXT_DATA__" data-ssr="true">[["Reactive",1],{"data":2,"state":3,"once":4,"_errors":5,"serverRendered":6,"path":7},{},{},["Set"],{},true,"/"]</script>
+<script>window.__NUXT__={};window.__NUXT__.config={public:{},app:{baseURL:"/",buildAssetsDir:"/_nuxt/",cdnURL:""}}</script></body></html>"
+`;

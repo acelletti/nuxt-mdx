@@ -1,19 +1,14 @@
-import { defineNuxtModule, addPlugin, createResolver } from "@nuxt/kit";
+import { defineNuxtModule } from "@nuxt/kit";
 import mdx from "@mdx-js/rollup";
 import { type Plugin as VitePlugin } from "vite";
-// Module options TypeScript interface definition
-export interface ModuleOptions {}
 
-export default defineNuxtModule<ModuleOptions>({
+export default defineNuxtModule<{}>({
   meta: {
     name: "@nuxt/content",
     configKey: "mdx",
   },
-  // Default configuration options of the Nuxt module
   defaults: {},
-  setup(options, nuxt) {
-    const resolver = createResolver(import.meta.url);
-
+  setup(_, nuxt) {
     if (!nuxt.options.extensions.includes(".mdx"))
       nuxt.options.extensions.push(".mdx");
 
@@ -23,8 +18,5 @@ export default defineNuxtModule<ModuleOptions>({
         ...mdx({ jsxImportSource: "vue" }),
       } as VitePlugin);
     });
-
-    // Do not add the extension since the `.ts` will be transpiled to `.mjs` after `npm run prepack`
-    addPlugin(resolver.resolve("./runtime/plugin"));
   },
 });
