@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.0.3
+
+[compare changes](https://github.com/acelletti/nuxt-mdx/compare/v0.0.2...v0.0.3)
+
+### 🩹 Fixes
+
+- Use clean-package to clean npm package manifest ([1f67482](https://github.com/acelletti/nuxt-mdx/commit/1f67482))
+
+### ❤️ Contributors
+
+- Andrea Celletti <celletti.andrea87@gmail.com>
+
 ## v0.0.2
 
 [compare changes](https://github.com/acelletti/nuxt-mdx/compare/v0.0.1...v0.0.2)

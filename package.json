@@ -1,6 +1,6 @@
 {
   "name": "@acelletti/nuxt-mdx",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Write JSX in your Markdown with Nuxt",
   "repository": "acelletti/nuxt-mdx",
   "license": "MIT",
