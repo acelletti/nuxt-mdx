@@ -1,13 +1,7 @@
 <template>
-  <div>
+  <NuxtLayout>
     <NuxtPage />
-  </div>
+  </NuxtLayout>
 </template>
 
 <script setup></script>
-
-<style>
-body {
-  margin: 48px 32px;
-}
-</style>

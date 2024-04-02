@@ -15,7 +15,7 @@ export default defineNuxtModule<{}>({
     nuxt.hook("vite:extendConfig", (config) => {
       config.plugins?.push({
         enforce: "pre",
-        ...mdx({ jsxImportSource: "vue" }),
+        ...mdx({ jsxImportSource: "vue", providerImportSource: "@mdx-js/vue" }),
       } as VitePlugin);
     });
   },
